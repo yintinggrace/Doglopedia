@@ -43,3 +43,18 @@ header .title {
   border-bottom: 1px dotted #000000;
 }
 
+.profile {
+  margin-bottom: 10px;
+}
+
+.image-dog {
+  background-image: url("dog.jpg");
+  height: 300px;
+  width: 300px;
+  background-position: center;
+  background-size: cover;
+  border-radius: 50%;
+  border: 1px solid #000000;
+  border-bottom-width: 3px;
+  margin: 15px auto 0;
+}
