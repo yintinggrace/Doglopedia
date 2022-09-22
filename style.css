@@ -10,3 +10,18 @@ body {
   text-align: center;
   width: 600px;
 }
+
+header {
+  background-color: #f5f5dc;
+  border-radius: 5px;
+  color: #94805a;
+  padding: 25px 0;
+}
+
+header .title {
+  margin-bottom: 10px;
+}
+
+.highlight {
+  font-style: italic;
+}
