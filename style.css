@@ -58,3 +58,13 @@ header .title {
   border-bottom-width: 3px;
   margin: 15px auto 0;
 }
+
+.description {
+  border-bottom: 1px solid #dddddd;
+  text-align: left;
+}
+
+.description p {
+  padding: 15px 0;
+}
+
