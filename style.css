@@ -25,3 +25,21 @@ header .title {
 .highlight {
   font-style: italic;
 }
+
+.navigation {
+  border-bottom: 1px solid #dddddd;
+  padding: 15px 0;
+  margin-bottom: 20px;
+}
+
+.navigation li {
+  display: inline-block;
+}
+
+.navigation a {
+  color: #000000;
+  margin: 0 10px;
+  text-decoration: none;
+  border-bottom: 1px dotted #000000;
+}
+
